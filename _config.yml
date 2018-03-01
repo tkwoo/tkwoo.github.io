@@ -1,6 +1,6 @@
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
+# url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
