@@ -1,9 +1,12 @@
 - language:
-  idiom: English
+  idiom: Korean
   level: Native
 - language:
-  idiom: French
-  level: Professional
+  idiom: Python
+  level: Intermediate high
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: C++
+  level: Intermediate high
+- language:
+  idiom: English
+  level: Intermediate
