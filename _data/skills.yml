@@ -1,6 +1,12 @@
 - skill:
   name: Computer Vision
-  level: 98%
+  level: 90%
+- skill:
+  name: Deep learning
+  level: 75%
+- skill:
+  name: Korean NLP
+  level: 30%
 - skill:
   name: Python
   level: 85%

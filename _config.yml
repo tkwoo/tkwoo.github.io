@@ -17,10 +17,10 @@ style: styles-6
 name: Taekang Woo
 tagline: Researcher (computer vision)
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: '[Engineering, Researching, Programming] 
+Result-oriented Engineer with 1+ years of experience in corporate environment, 
+have strong knowledge in Computer Vision, Machine Learning for Autonomous vehicle, Brain MRI, Face recognition. 
+Highly motivated, confident professional with a good sense of humor.'
 
 #sidebar links
 email: wtk1101@gmail.com
@@ -35,7 +35,7 @@ github: tkwoo
 #education_in_main: True
 
 # Tracker
-analytics: UA-83979019-1
+# analytics: UA-83979019-1
 
 # Build settings
 encoding: "utf-8"
