@@ -1,15 +1,14 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "You can list your publications in this section."
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Wide-Residual-Inception Networks for Real-time Object Detection
+    authors: Youngwan Lee, Byeonghak Yim, Huien Kim, Eunsoo Park, Xuenan Cui, Taekang Woo, Hakil Kim
+    conference: ArXiv, 2017
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: "[Thesis] Stixel-based Real Time Object Detection for ADAS using Surface Normal Vectors"
+    authors: Taekang Woo
+    conference: Inha Univ., 2017
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: Integration of Vehicle Detection and Distance Estimation using Stereo Vision for Real-Time AEB System
+    authors: B.H. Lim, T.K. Woo, and H.I. Kim
+    conference: " Conference: 3rd International Conference on Vehicle Technology and Intelligent Transport Systems, 2017"
