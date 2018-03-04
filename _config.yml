@@ -20,7 +20,19 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 summary: '[Engineering, Researching, Programming] <br />
 Result-oriented Researcher with 1+ years of experience in corporate environment, 
 have strong knowledge in Computer Vision, Machine Learning for Autonomous vehicle, Brain MRI, Face recognition. 
-Highly motivated, confident professional with a good sense of humor.'
+Highly motivated, confident professional with a good sense of humor.
+<br> <br>
+
+Have computer vision experience & code level solution<br>
+Classfication (vgg ~ xception)<br>
+Detection (ssd, yolo)<br>
+Segmentation (unet, deeplab, pspnet)<br>
+Feature extraction (HoG, FAST)<br>
+Matching (stereo SGM, BM)<br>
+3d reconstruction (disparity -> depth)<br>
+Clustering (DBSCAN, meanshift, Kmeans)<br>
+Tracking (median filter, KCF)
+'
 
 #sidebar links
 email: wtk1101@gmail.com
