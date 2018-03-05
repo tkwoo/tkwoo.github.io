@@ -31,7 +31,8 @@ Highly motivated, confident professional with a good sense of humor.
   - Matching (stereo SGM, BM)<br>
   - 3d reconstruction (disparity -> depth)<br>
   - Clustering (DBSCAN, meanshift, Kmeans)<br>
-  - Tracking (median filter, KCF)
+  - Tracking (median filter, KCF)<br>
+  - Generative model (anoGAN)
 '
 
 #sidebar links
